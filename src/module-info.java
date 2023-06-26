@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ctih
+ *
+ */
+module NumberGuess {
+}
